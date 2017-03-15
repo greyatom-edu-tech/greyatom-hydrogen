@@ -34,7 +34,7 @@
     "fix": "eslint . --fix",
     "build:docs": "markdox lib/plugin-api/hydrogen-provider.js lib/plugin-api/hydrogen-kernel.js -o PLUGIN_API.md"
   },
-  "repository": "https://github.com/nteract/hydrogen",
+  "repository": "https://github.com/greyatom-edu-tech/greyatom-hydrogen",
   "license": "MIT",
   "engines": {
     "atom": ">=1.6.0 <2.0.0"
